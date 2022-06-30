@@ -1,6 +1,6 @@
 # Move-Onedrive
 
-Very simple implementation of downloading onedrive files from one tenant and uploading to another
+Very simple implementation of downloading onedrive files from one tenant and uploading to another, including fixing onenote notebooks.
 
 The `Connect` function in `connect.ps1` should be updated to how you want to connect to the tenants
 
